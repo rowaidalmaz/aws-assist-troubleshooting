@@ -5,8 +5,8 @@ function App() {
   return (
     <div className="App">
     
-             <img src="/background.png" alt="studio" width="1500" height="1300"></img>
-
+        <img src={background} alt="logo" width="1500" height="1000" />
+       
 
     </div>
   );
